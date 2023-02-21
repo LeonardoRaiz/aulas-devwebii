@@ -1,10 +1,7 @@
-![Aula.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f0dd6bcb-d8bd-4179-9837-42f0bf68b8c3/Aula.png)
-
 # Front-End com Vue.js
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/577122c9-4d09-4b64-a99a-081198fa806f/Untitled.png)
 
 Vue.js é um framework JavaScript moderno e progressivo que oferece muitas vantagens para o desenvolvimento de aplicações web. Neste texto, vamos explorar as principais razões pelas quais você deve considerar o uso do Vue.js em seus projetos.
 
@@ -53,9 +50,6 @@ Ao criar a estrutura básica do HTML teremos:
 </html>
 ```
 
-porem perceba que ao executar a linguagem de marcação teremos o seguinte resultado:
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/312def79-8ff0-44a2-8cb7-6aa6e0763713/Untitled.png)
 
 O código **`const { createApp } = Vue;`** utiliza a sintaxe de desestruturação do JavaScript para extrair a função **`createApp`** do objeto **`Vue`** e atribuí-la a uma variável chamada **`createApp`**.
 
@@ -102,7 +96,6 @@ E acrescentar no HTML as seguintes tags:
 <p>{{ paragrafo }}</p>
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dddea535-b887-46dd-a724-0a7faa881f5b/Untitled.png)
 
 ## **Utilizando funções/metodos**
 
@@ -181,5 +174,3 @@ Exemplo:
   </body>
 </html>
 ```
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e5bddf9a-a03d-46c5-9ae8-1dcac71c7346/Untitled.png)
